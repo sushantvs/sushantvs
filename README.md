@@ -4,9 +4,9 @@
 🐍 Writing Python scripts one day, debugging C# the next, and tinkering with Docker & Kubernetes in between.  
 
 ### 🚀 What I Do
-- 🔹 Build scalable backend systems with **.NET & Web APIs**  
-- 🔹 Play with data in **SQL, Redis & Elasticsearch**  
-- 🔹 Automate everything I can using **CI/CD, GitLab, Argo CD**  
+🔹 Build scalable backend systems with **.NET & Web APIs**  
+🔹 Play with data in **SQL, Redis & Elasticsearch**  
+🔹 Automate everything I can using **CI/CD, GitLab, Argo CD**  
 
 ### 🚀 Tech Stack  
 
